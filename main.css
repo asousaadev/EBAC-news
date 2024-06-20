@@ -59,6 +59,10 @@ header {
     padding: 8px;
 }
 
+.submenu li a {
+text-decoration: none;
+}
+
 /* --> Section destaque <-- */
 
 .conteudo {
